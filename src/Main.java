@@ -17,7 +17,7 @@ public class Main {
 		}
 		
 		else {
-			;
+			
 			System.out.println("Yes lang dapat");
 		}
 		
